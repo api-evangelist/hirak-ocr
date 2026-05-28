@@ -1,0 +1,32 @@
+aid: hirak-ocr
+name: Hirak OCR
+description: "Image to text -text recognition- from image more than 100 language, accurate, unlimited requests"
+url: https://ocr.hirak.site/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Text Analysis"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Text Analysis
+  - Public APIs
+apis:
+  - name: Hirak OCR
+    description: "Image to text -text recognition- from image more than 100 language, accurate, unlimited requests"
+    humanURL: https://ocr.hirak.site/
+    baseURL: https://ocr.hirak.site/
+    tags:
+      - Text Analysis
+    properties:
+      - type: Documentation
+        url: https://ocr.hirak.site/
+common:
+  - type: Website
+    url: https://ocr.hirak.site/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
