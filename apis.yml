@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://ocr.hirak.site/
 common:
+  - type: VulnerabilityDisclosure
+    url: security/hirak-ocr-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/hirak-ocr-domain-security.yml
   - type: Website
     url: https://ocr.hirak.site/
   - type: PublicAPIsListing
