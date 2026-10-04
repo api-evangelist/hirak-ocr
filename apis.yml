@@ -39,7 +39,6 @@ apis:
   - name: Hirak OCR
     description: "Image to text -text recognition- from image more than 100 language, accurate, unlimited requests"
     humanURL: https://ocr.hirak.site/
-    baseURL: https://ocr.hirak.site/
     tags:
       - Text Analysis
     properties:
